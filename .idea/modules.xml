@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataBaseEX/DataBaseEX.iml" filepath="$PROJECT_DIR$/DataBaseEX/DataBaseEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Database_Java/Database_Java.iml" filepath="$PROJECT_DIR$/Database_Java/Database_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_project.iml" filepath="$PROJECT_DIR$/Java_project.iml" />
+    </modules>
+  </component>
+</project>
