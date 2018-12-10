@@ -40,4 +40,5 @@ public class db {
     public PreparedStatement PreparedStatement(String sql) throws SQLException{
         return dbConn.prepareStatement(sql);
     }
+
 }
